@@ -20,6 +20,18 @@ Total: 60 Exercises.
 | Exercises | [Q1](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_hide_show1) | [Q2](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_hide_show2) | [Q3](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_hide_show3) | [Q4](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_hide_show4) |
 | Answer | [A1](./jQ-Hide_Show/jqHide_ShowE1.js) | [A2](./jQ-Hide_Show/jqHide_ShowE2.js) | [A3](./jQ-Hide_Show/jqHide_ShowE3.js) | [A4](./jQ-Hide_Show/jqHide_ShowE4.js) |
 
+## [jQuery Fade](./jQ-Fade): 4 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/jquery/jquery_fade.asp) | 1 | 2 | 3 | 4 |
+| :--- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_fade1) | [Q2](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_fade2) | [Q3](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_fade3) | [Q4](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_fade4) |
+| Answer | [A1](./jQ-Fade/jqFadeE1.js) | [A2](./jQ-Fade/jqFadeE2.js) | [A3](./jQ-Fade/jqFadeE3.js) | [A4](./jQ-Fade/jqFadeE4.js) |
+
+## [jQuery Slide](./jQ-Slide): 4 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/jquery/jquery_slide.asp) | 1 | 2 | 3 | 4 |
+| :--- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_slide1) | [Q2](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_slide2) | [Q3](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_slide3) | [Q4](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_slide4) |
+| Answer | [A1](./jQ-Slide/jqSlideE1.js) | [A2](./jQ-Slide/jqSlideE2.js) | [A3](./jQ-Slide/jqSlideE3.js) | [A4](./jQ-Slide/jqSlideE4.js) |
+
   
 ***more list will be added later***
 
