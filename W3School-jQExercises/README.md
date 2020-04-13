@@ -68,8 +68,29 @@ Total: 60 Exercises.
 | Exercises | [Q1](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_dom_remove1) | [Q2](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_dom_remove2) | [Q3](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_dom_remove3) |
 | Answer | [A1](./jQ-Remove/jqRemoveE1.js) | [A2](./jQ-Remove/jqRemoveE2.js) | [A3](./jQ-Remove/jqRemoveE3.js) |
 
-  
-***more list will be added later***
+## [jQuery CSS Classes](./jQ-CSS_Classes): 4 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/jquery/jquery_css_classes.asp) | 1 | 2 | 3 | 4 |
+| :--- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_css_classes1) | [Q2](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_css_classes2) | [Q3](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_css_classes3) | [Q4](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_css_classes4) |
+| Answer | [A1](./jQ-CSS_Classes/jqCSS_ClassesE1.js) | [A2](./jQ-CSS_Classes/jqCSS_ClassesE2.js) | [A3](./jQ-CSS_Classes/jqCSS_ClassesE3.js) | [A4](./jQ-CSS_Classes/jqCSS_ClassesE4.js) |
+
+## [jQuery CSS](./jQ-CSS): 4 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/jquery/jquery_css.asp) | 1 | 2 | 3 | 4 |
+| :--- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_css1) | [Q2](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_css2) | [Q3](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_css3) | [Q4](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_css4) |
+| Answer | [A1](./jQ-CSS/jqCSSE1.js) | [A2](./jQ-CSS/jqCSSE2.js) | [A3](./jQ-CSS/jqCSSE3.js) | [A4](./jQ-CSS/jqCSSE4.js) |
+
+## [jQuery Dimensions](./jQ-Dimensions): 5 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/jquery/jquery_dimensions.asp) | 1 | 2 | 3 | 4 | 5 |
+| :--- | --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_dimensions1) | [Q2](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_dimensions2) | [Q3](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_dimensions3) | [Q4](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_dimensions4) | [Q5](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_dimensions5) |
+| Answer | [A1](./jQ-Dimensions/jqDimensionsE1.js) | [A2](./jQ-Dimensions/jqDimensionsE2.js) | [A3](./jQ-Dimensions/jqDimensionsE3.js) | [A4](./jQ-Dimensions/jqDimensionsE4.js) | [A5](./jQ-Dimensions/jqDimensionsE5.js) |
+
+## [jQuery Traversing](./jQ-Traversing): 6 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/jquery/jquery_traversing.asp) | 1 | 2 | 3 | 4 | 5 | 6 |
+| :--- | --- | --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_traversing1) | [Q2](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_traversing2) | [Q3](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_traversing3) | [Q4](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_traversing4) | [Q5](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_traversing5) | [Q6](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_traversing6) |
+| Answer | [A1](./jQ-Traversing/jqTraversingE1.js) | [A2](./jQ-Traversing/jqTraversingE2.js) | [A3](./jQ-Traversing/jqTraversingE3.js) | [A4](./jQ-Traversing/jqTraversingE4.js) | [A5](./jQ-Traversing/jqTraversingE5.js) | [A6](./jQ-Traversing/jqTraversingE6.js) |
 
 ##
 <sup>:octocat: Created by [@alexoah](http://github.com/alexoah) at GitHub.</sup>
