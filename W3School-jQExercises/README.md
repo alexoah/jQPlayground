@@ -32,6 +32,42 @@ Total: 60 Exercises.
 | Exercises | [Q1](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_slide1) | [Q2](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_slide2) | [Q3](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_slide3) | [Q4](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_slide4) |
 | Answer | [A1](./jQ-Slide/jqSlideE1.js) | [A2](./jQ-Slide/jqSlideE2.js) | [A3](./jQ-Slide/jqSlideE3.js) | [A4](./jQ-Slide/jqSlideE4.js) |
 
+## [jQuery Animate](./jQ-Animate): 4 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/jquery/jquery_animate.asp) | 1 | 2 | 3 | 4 |
+| :--- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_animate1) | [Q2](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_animate2) | [Q3](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_animate3) | [Q4](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_animate4) |
+| Answer | [A1](./jQ-Animate/jqAnimateE1.js) | [A2](./jQ-Animate/jqAnimateE2.js) | [A3](./jQ-Animate/jqAnimateE3.js) | [A4](./jQ-Animate/jqAnimateE4.js) |
+
+## [jQuery Stop](./jQ-Stop): 1 exercise
+| W3Schools [Tutorial](https://www.w3schools.com/jquery/jquery_stop.asp) | 1 |
+| :--- | --- |
+| Exercises | [Q1](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_stop1) |
+| Answer | [A1](./jQ-Stop/jqStopE1.js) |
+
+## [jQuery Get](./jQ-Get): 4 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/jquery/jquery_dom_get.asp) | 1 | 2 | 3 | 4 |
+| :--- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_dom_get1) | [Q2](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_dom_get2) | [Q3](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_dom_get3) | [Q4](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_dom_get4) |
+| Answer | [A1](./jQ-Get/jqGetE1.js) | [A2](./jQ-Get/jqGetE2.js) | [A3](./jQ-Get/jqGetE3.js) | [A4](./jQ-Get/jqGetE4.js) |
+
+## [jQuery Set](./jQ-Set): 4 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/jquery/jquery_dom_set.asp) | 1 | 2 | 3 | 4 |
+| :--- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_dom_set1) | [Q2](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_dom_set2) | [Q3](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_dom_set3) | [Q4](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_dom_set4) |
+| Answer | [A1](./jQ-Set/jqSetE1.js) | [A2](./jQ-Set/jqSetE2.js) | [A3](./jQ-Set/jqSetE3.js) | [A4](./jQ-Set/jqSetE4.js) |
+
+## [jQuery Add](./jQ-Add): 2 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/jquery/jquery_dom_add.asp) | 1 | 2 |
+| :--- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_dom_add1) | [Q2](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_dom_add2) |
+| Answer | [A1](./jQ-Add/jqAddE1.js) | [A2](./jQ-Add/jqAddE2.js) |
+
+## [jQuery Remove](./jQ-Remove): 3 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/jquery/jquery_dom_remove.asp) | 1 | 2 | 3 |
+| :--- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_dom_remove1) | [Q2](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_dom_remove2) | [Q3](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_dom_remove3) |
+| Answer | [A1](./jQ-Remove/jqRemoveE1.js) | [A2](./jQ-Remove/jqRemoveE2.js) | [A3](./jQ-Remove/jqRemoveE3.js) |
+
   
 ***more list will be added later***
 
