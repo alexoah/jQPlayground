@@ -14,6 +14,12 @@ Total: 60 Exercises.
 | Exercises | [Q1](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_events1) | [Q2](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_events2) | [Q3](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_events3) | [Q4](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_events4) | [Q5](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_events5) |
 | Answer | [A1](./jQ-Events/jqEventsE1.js) | [A2](./jQ-Events/jqEventsE2.js) | [A3](./jQ-Events/jqEventsE3.js) | [A4](./jQ-Events/jqEventsE4.js) | [A5](./jQ-Events/jqEventsE5.js) |
 
+## [jQuery Hide and Show](./jQ-Hide_Show): 4 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/jquery/jquery_hide_show.asp) | 1 | 2 | 3 | 4 |
+| :--- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_hide_show1) | [Q2](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_hide_show2) | [Q3](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_hide_show3) | [Q4](https://www.w3schools.com/jquery/exercise_jq.asp?filename=exercise_jq_hide_show4) |
+| Answer | [A1](./jQ-Hide_Show/jqHide_ShowE1.js) | [A2](./jQ-Hide_Show/jqHide_ShowE2.js) | [A3](./jQ-Hide_Show/jqHide_ShowE3.js) | [A4](./jQ-Hide_Show/jqHide_ShowE4.js) |
+
   
 ***more list will be added later***
 
