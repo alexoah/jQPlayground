@@ -5,7 +5,7 @@ Thank you for your visit!
 ## List of Exercises
 * [W3School's jQuery Exercises](./W3School-jQExercises): answers to W3School's jQuery Exercises
   
-## Additional Info
+## Related Playgrounds
 * [ [HTML Playground](https://github.com/alexoah/HTMLPlayground) ] 
 * [ [CSS Playground](https://github.com/alexoah/CSSPlayground) ] - [ [Bootstrap Playground](https://github.com/alexoah/BSPlayground) ]
 * [ [JavaScript Playground](https://github.com/alexoah/JSPlayground) ]
